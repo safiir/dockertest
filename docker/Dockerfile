@@ -1,3 +1,3 @@
 from alpine
 
-COPY /docker/README.md
+COPY /docker/README.md /
